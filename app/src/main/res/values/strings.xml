@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Pikchar : Hindi Movies "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">8C60EC2B87C94EE63E22D315D518F44A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="tabs">
+        <item>"Popular"</item>
+        <item>"Released This Week"</item>
+        <item>"Releasing Next Week"</item>
+    </string-array>
+</resources>

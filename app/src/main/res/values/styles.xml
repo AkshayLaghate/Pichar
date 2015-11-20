@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated,
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:typeface">serif</item>
+
+        <item name="android:textColorPrimary">@color/grey_white_1000</item>
+        <item name="android:textColorPrimaryInverse">@color/grey_black_1000</item>
+        <item name="android:actionMenuTextColor">@color/grey_white_1000</item>
+        <item name="android:textColorSecondary">@color/grey_white_1000</item>
+
+        <item name="homeAsUpIndicator">@drawable/ic_drawer</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_drawer</item>
+
+        <item name="colorControlNormal">@color/grey_white_1000</item>
+        <item name="colorControlActivated">@color/accent</item>
+        <item name="colorControlHighlight">@color/accent</item>
+
+
+    </style>
+
+    <style name="MyPopupStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@color/grey_white_1000</item>
+        <item name="android:textColor">@color/grey_black_1000</item>
+    </style>
+
+
+</resources>
